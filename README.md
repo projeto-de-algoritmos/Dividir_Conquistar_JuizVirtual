@@ -3,9 +3,6 @@
 Temas:
  - D&C
  
- 
- 
- (Apague essa seção)
 
 # Dividir e Conquistar
 
