@@ -31,12 +31,6 @@ Para rodar localmente os códigos das questões, é necessário um compilador C+
 As questões foram submetidas ao leetcode, que possui uma estrutura de submissão com função própria de parametros preenchidos pelo próprio juiz, dessa forma ele não possui main.foi disponibilizado dentro do repositório o código submetido ao leetcode.
 
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
 
 ## Apresentação
  
