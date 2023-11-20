@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/paulo/OneDrive/Documentos/GitHub/requisitos-2023.1/Dividir_Conquistar_JuizVirtual/k-closest-points-to-origin",
+      "program": "c:/Users/paulo/OneDrive/Documentos/GitHub/requisitos-2023.1/Dividir_Conquistar_JuizVirtual/k-closest-points-to-origin/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

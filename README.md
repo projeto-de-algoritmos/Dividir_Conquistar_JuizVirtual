@@ -20,7 +20,40 @@ Este repositório apresenta a solução de exercícios de juíz online do site [
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## [Maximum_subarray](/Maximum_subarray/Maximum_subarray.cpp)(Médio)
+### [Link da questão no leetcode](https://leetcode.com/problems/maximum-subarray/)
+
+<center>
+<img src="/img/Subarrayproof.PNG"></img>
+<p>Figura 1 - Subarray(Fonte: autores)</p>
+</center>
+
+## [Merge K Sorted Lists](/Merge%20k%20Sorted%20Lists/Merge%20k%20Sorted%20Lists.cpp)(Difícil)
+### [Link da questão no leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
+<center>
+<img src="/img/mergeproof.PNG"></img>
+<p>Figura 2 - Merge(Fonte: autores)</p>
+</center>
+
+## [k-closest-points-to-origin](/k-closest-points-to-origin/points.cpp)(Médio)
+### [Link da questão no leetcode](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+<center>
+<img src="/img/k-closest-points-to-origin.png"></img>
+<p>Figura 3 - Closest Points Funcionando(Fonte: autores)</p>
+</center>
+
+## [Median Of Two Sorted Arrays](/Median%20of%20Two%20Sorted%20Arrays/median.cpp)(Difícil)
+### [Link da questão no leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+<center>
+<img src="/img/median.png"></img>
+<p>Figura 4 -Reducing dishes Funcionando(Fonte: autores)</p>
+</center>
+
+
+
 
 ## Instalação 
 **Linguagem**: C++<br>
