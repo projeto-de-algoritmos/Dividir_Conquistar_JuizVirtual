@@ -67,10 +67,10 @@ As questões foram submetidas ao leetcode, que possui uma estrutura de submissã
 
 ## Apresentação
  
- Assista ao vídeo abaixo no [Youtube]()
+ Assista ao vídeo abaixo no [Youtube](https://youtu.be/BvVhsQnK8_c)
  
 
-Para acessar o vídeo no repositório   [Clique Aqui]()
+Para acessar o vídeo no repositório   [Clique Aqui](/assets/video.mp4)
 
 
 
